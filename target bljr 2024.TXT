@@ -1,0 +1,6 @@
+Target framework/library yang ingin dipelajari dari 01/11/2023-end 2024:
+- React
+- React Native
+- Laravel
+- Next Js
+- Flutter
