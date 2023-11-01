@@ -1,6 +1,9 @@
-Target framework/library yang ingin dipelajari dari 01/11/2023-end 2024:
+Target Bahasa Pemgrograman & framework/library yang ingin dipelajari dari 01/11/2023 until end of 2024:
 - React
 - React Native
-- Laravel
 - Next Js
+- Laravel
 - Flutter
+- Electron Js
+- Three JS
+
