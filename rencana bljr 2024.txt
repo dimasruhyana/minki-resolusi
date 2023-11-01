@@ -1,1 +1,5 @@
-
+-  CSS -> SASS, Webpack, Tailwind
+-  PHP -> Laravel
+-  Python
+-  JS -> VUE, React, Electron, React Native, Node JS, Next JS, Three JS
+-  Dart -> Flutter
