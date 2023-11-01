@@ -5,5 +5,5 @@ Target Bahasa Pemgrograman & framework/library yang ingin dipelajari dari 01/11/
 - Laravel
 - Flutter
 - Electron Js
-- Three JS
+- Python
 
